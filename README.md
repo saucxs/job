@@ -3,7 +3,11 @@
 
 ## 一、字节内推
 ### 1、急招岗位
-[【字节急招】南京-前端开发工程师—数据可视化](./bytedance/hot-jd/nj_font_end_jd.md)
++ [【字节急招】南京-前端开发工程师—数据可视化](./bytedance/hot-jd/nj_font_end_jd.md)
+
++ [【字节急招】多地-前端开发工程师-抖音（北京/深圳/上海/杭州）](./bytedance/hot-jd/douyin_all_city_font_end_jd.md)
+
++ [【字节急招】多地-前端研发工程师-Data](./bytedance/hot-jd/data_font_end_jd.md)
 
 
 ## 二、前言
