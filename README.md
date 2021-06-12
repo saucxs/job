@@ -9,6 +9,8 @@
 
 + [【字节急招】多地-前端研发工程师-Data](./bytedance/hot-jd/data_font_end_jd.md)
 
++ [【字节急招】深圳-后端研发工程师-国际化电商](./bytedance/hot-jd/shenzhen_back_end_jd.md)
+
 
 ## 二、前言
 1、作者常用昵称有saucxs，songEagle，松宝写代码。「松宝写代码」公众号作者，精选好文，每日一题，实验室，进阶学习，字节内推等。一个爱好折腾，致力于全栈，正在努力成长的字节跳动工程师，星辰大海，未来可期。
