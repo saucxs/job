@@ -1,5 +1,8 @@
 # 【字节急招】多地-前端研发工程师-Data
 
+> Q：程序员如何一句话激怒产品经理？
+A：别给我发文档了，你就跟我说，你要chao谁吧
+
 ## 前言
 本岗位属于字节跳动的急招岗位，
 
@@ -71,16 +74,18 @@
 个人觉得不难，实力+运气，字节有时候是需要找更优秀的人，有时候找更符合岗位和团队的人才，但是宁缺毋滥，更需要我们的候选人基础扎实，动手能力强，项目经验丰富（不仅仅是数量上的），业务理解有深度，技术不设边界，业务场景有思考，不仅仅是技术思维，不仅仅是产品思维，多方面能力强。
 
 
-#### 更多阅读
+#### 更多内推
 + [【字节急招】南京-前端开发工程师—数据可视化](https://mp.weixin.qq.com/s/DY1b53FvcIM5CzbAFpj_Fw)
+
+#### 更多阅读
+
++ [AB实验基础-专有名词](https://mp.weixin.qq.com/s/TXzuf_98yMojVAFlDv0CCQ)
 
 + [AB实验基础-AB是什么？AB的价值？为什么使用AB实验？](https://mp.weixin.qq.com/s/UcwpNqRQ3we10S9z5cO53g)
 
 + [【每日一题】(57题)数组扁平化的方法有哪些？](https://mp.weixin.qq.com/s/sXIJ6bQj97bZTaYHQgJTIw)
 
 + [【每日一题】(56题)介绍下深度优先遍历和广度优先遍历，如何实现？](https://mp.weixin.qq.com/s/KkqdB4mWlMgZMcHVhZVZXQ)
-
-+ [【每日一题】(55题)算法题：实现数组的全排列](https://mp.weixin.qq.com/s/0KKYgUXJpnJ2yIQ9DY8eJA)
 
 + [2020「松宝写代码」个人年终总结：未来可期](https://mp.weixin.qq.com/s/_ay6KfcC5DMoZu9XqS2NHA)
 
@@ -90,9 +95,9 @@
 
 1、文章喜欢的话**可以「分享，点赞，在看」三连**哦。
 
-2、作者昵称：saucxs，songEagle，松宝写代码。「松宝写代码」公众号作者，每日一题，实验室等。一个爱好折腾，致力于全栈，正在努力成长的字节跳动工程师，星辰大海，未来可期。**内推字节跳动各个部门各个岗位**。
+2、「松宝写代码」一个爱好折腾，致力于全栈，正在努力成长的字节跳动工程师，星辰大海，未来可期。**内推字节跳动各个部门各个岗位**。
 
-3、关注「松宝写代码」，是获取开发知识体系构建，精选文章，项目实战，实验室，**每日一道面试题**，进阶学习，思考职业发展，涉及到JavaScript，Node，Vue，React，浏览器，http，算法，端相关，小程序等领域，希望可以帮助到你，我们一起成长～
+3、​关注「松宝写代码」，获取开发知识体系构建，精选文章，项目实战，实验室，每日一道面试题，进阶学习，思考职业发展，内推字节。涉及到JavaScript，Node，Vue，React，浏览器，http，算法，端相关，小程序，AB实验等领域，希望可以帮助到你，我们一起成长～
 
 
 ![松宝写代码](https://raw.githubusercontent.com/saucxs/full_stack_knowledge_list/master/image/songbao.png?raw=true)
