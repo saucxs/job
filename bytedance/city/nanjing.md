@@ -1,5 +1,5 @@
-# 【成都】字节内推
-字节跳动「松宝写代码」内推，我们来开始看看【成都】内推岗位，筛选出急招，处理速度快的岗位。分为
+# 【南京】字节内推
+字节跳动「松宝写代码」内推，我们来开始看看【南京】内推岗位，筛选出急招，处理速度快的岗位。分为
 + 自己筛选和匹配
 + 社招岗位，前后端
 + 实习生岗位，前后端
@@ -18,43 +18,60 @@
 ![](https://cdn.nlark.com/yuque/0/2021/jpeg/276016/1629471921449-0c2d6eb2-758d-4dc9-9b64-5f022a0171ad.jpeg?x-oss-process=image%2Fresize%2Cw_864)
 
 ## 【前端】社招岗位
-|     部门     | 岗位 |             内推链接               |
+|     部门     | 岗位 |             内推链接             |
 | ------------ | --- | ------------------------------- |
-| 产品研发和工程架构部 |  前端开发工程师-私有云方向（急招） | 内推链接：https://job.toutiao.com/s/dd8ac2Y |
-| 飞书    |  前端开发leader-飞书人力套件（急招）  | 内推链接：https://job.toutiao.com/s/dd8UF26 |
-| 互娱     |  前端开发Leader — 客服平台  | 内推链接：https://job.toutiao.com/s/dd8xJAT |
-| 互娱   |  前端研发Leader-抖音  |  内推链接：https://job.toutiao.com/s/dd8ycgL |
-| Data  |  高级/资深前端研发工程师   | 内推链接：https://job.toutiao.com/s/dd8CRvH |
-| Deep Collaborat   | 资深前端开发工程师 — 移动平台 |   内推链接：https://job.toutiao.com/s/dd8S5fu |
+| Data |  前端开发工程师—数据可视化（急招） | 内推链接：https://job.toutiao.com/s/ddpRWkd |
+| Data |  前端开发工程师—数据产品  | 内推链接：https://job.toutiao.com/s/ddp25EX |
+| Data |  前端研发负责人-数据平台  | 内推链接：https://job.toutiao.com/s/ddpFdDE |
+| Data |  前端开发高级工程师—APP/小程序方向  |  内推链接：https://job.toutiao.com/s/ddpLHAL |
+| Data |  前端开发工程师—SDK方向   | 内推链接：https://job.toutiao.com/s/ddpkapp |
+| Data | 前端开发高级工程师 — 大数据 |   内推链接：https://job.toutiao.com/s/ddpJebw |
+| Data | 前端开发高级工程师 —Node.js方向 |   内推链接：https://job.toutiao.com/s/ddpBUWf |
+| Data | 前端架构师/技术专家 - 数据平台 |   内推链接：https://job.toutiao.com/s/ddpAQVk |
+| 产品研发和工程架构部   | 前端研发高级工程师 |   内推链接：https://job.toutiao.com/s/ddp6RyY |
 
 
 ## 【前端】实习生招岗位
 |     部门     | 岗位 |             内推链接               |
 | ------------ | --- | ------------------------------- |
-| Professional Services |  前端实习生-飞书PSC | 内推链接：https://job.toutiao.com/s/ddrQyrC |
-| 产品研发和工程架构部  |  前端开发工程师（实习）  | 内推链接：https://job.toutiao.com/s/ddh1kjn |
-| 互娱     |  前端开发实习生-有转正机会  | 内推链接：https://job.toutiao.com/s/ddh2swU |
+| Data   |  前端开发实习生—大数据平台（可转正）  | 内推链接：https://job.toutiao.com/s/ddpxLaw |
+| 产品研发和工程架构部 |  前端开发实习生-基础平台 | 内推链接：https://job.toutiao.com/s/ddpdTDR |
+| 产品研发和工程架构部 |  前端开发工程师（实习）  | 内推链接：https://job.toutiao.com/s/ddh1kjn |
 
 
 ## 【服务端】社招岗位
 |     部门     | 岗位 |             内推链接               |
 | ------------ | --- | ------------------------------- |
-| Data | 高级/资深后端研发工程师 | 内推链接：https://job.toutiao.com/s/ddrKMy4 |
-| Enterprise IT Solution  |  后端开发工程师  | 内推链接：https://job.toutiao.com/s/ddhYqog |
-| 产品研发和工程架构部     |  高级软件工程师（云原生）  | 内推链接：https://job.toutiao.com/s/ddh1MpL |
-| 飞书  |  后端开发leader-飞书人力套件   |  内推链接：https://job.toutiao.com/s/ddheupY |
+| Data  | 服务端开发高级工程师 |  内推链接：https://job.toutiao.com/s/ddpqvCc |
+| Data  | 大数据平台工程师 |  内推链接：https://job.toutiao.com/s/ddps6sj |
+| Data  | 后端开发工程师 - 用户画像方向 |  内推链接：https://job.toutiao.com/s/ddpWayv |
+| Data  | 数据洞察平台-智能化技术负责人 |  内推链接：https://job.toutiao.com/s/ddpGb7r |
+| Data  | 基础架构高级工程师-To B |  内推链接：https://job.toutiao.com/s/ddpt26x |
+| 产品研发和工程架构部 | 基础架构高级开发工程师 | 内推链接：https://job.toutiao.com/s/ddpY8jF |
+| 安全与风控  |  高级应用开发工程师-容器安全  | 内推链接：https://job.toutiao.com/s/ddprj8H |
+| 产品研发和工程架构部 |  PaaS平台研发工程师 — 代码编译方向）  | 内推链接：https://job.toutiao.com/s/ddph3BT |
+| 产品研发和工程架构部  |  大数据架构高级工程师   |  内推链接：https://job.toutiao.com/s/ddpUrCf |
+
+## 【测开】社招岗位
+|     部门     | 岗位 |             内推链接               |
+| ------------ | --- | ------------------------------- |
+| Data  | 测试开发工程师 |  内推链接：https://job.toutiao.com/s/ddpbHbU |
+
+## 【测开】实习生岗位
+|     部门     | 岗位 |             内推链接               |
+| ------------ | --- | ------------------------------- |
+| Data  | 测试开发实习生-Data |  内推链接：https://job.toutiao.com/s/ddsAhGM |
 
 
 ## 【服务端】实习生招岗位
 |     部门     | 岗位 |             内推链接               |
 | ------------ | --- | ------------------------------- |
-| 互娱 |  测试开发实习生-抖音 | 内推链接：https://job.toutiao.com/s/ddh1vgC |
-| Professional Services  |  后端实习生-飞书PSC  | 内推链接：https://job.toutiao.com/s/ddhdWcv |
-|  产品研发和工程架构部  |  后端开发工程师-基础架构（实习）  | 内推链接：https://job.toutiao.com/s/ddhYkSk |
+| Data |  大数据开发实习生  | 内推链接：https://job.toutiao.com/s/ddpHnyu |
+| 产品研发和工程架构部 |  基础架构研发实习生 | 内推链接：https://job.toutiao.com/s/ddpPN5J |
 
 
 ## 需要重点关注⚠️点
-+ 一个部门尽量只投递一个，因为其中一个挂了其他投递也不会看。
++ 一个部门尽量只投递一个，找一个最合适自己，因为其中一个挂了其他投递也不会看。
 + 整体流程：简历投递=>简历筛选=>简历评估=>评估通过=>笔试中（非必要）=>面试中=>面试已完成=>待入职=>已入职
 + 投递方式：
   - 1、按照投递链接自己投递。
