@@ -124,6 +124,23 @@
 | 产品研发和工程架构部 | 语音算法实习生-抖音/抖音火山版/直播/影像 |  内推链接：https://job.toutiao.com/s/ddtFmGD |
 | Data | 推荐算法实习生-短视频方向 |  内推链接：https://job.toutiao.com/s/ddt8JdD |
 
+## 【产品】社招岗位
+|     部门     | 岗位 |             内推链接             |
+| ------------ | --- | ------------------------------- |
+| 中国电商 | 抖音电商 - 平台交易产品经理 | 内推链接：https://job.toutiao.com/s/d8MNaQA |
+| TikTok | 平台产品经理（版权方向）-短视频国际化（急招） | 内推链接：https://job.toutiao.com/s/d8MfxE8 |
+| Novel-Globalization | 国际化产品负责人 - 番茄小说（急招） | 内推链接：https://job.toutiao.com/s/d8MhduD |
+| Data | 需求分析师-数据产品-火山引擎） | 内推链接：https://job.toutiao.com/s/d8MRpxx |
+
+## 【产品】实习生岗位
+|     部门     | 岗位 |             内推链接             |
+| ------------ | --- | ------------------------------- |
+| 产品研发和工程架构部 | 解决方案实习生-视频云方向 | 内推链接：https://job.toutiao.com/s/d8MxXQd |
+| Enterprise IT Solution | 产品实习生 | 内推链接：https://job.toutiao.com/s/d8MPUqy |
+| 企业合作与解决方案 | 零售行业解决方案实习生-火山引擎 | 内推链接：https://job.toutiao.com/s/d8MayjH |
+
+
+
 ## 需要重点关注⚠️点
 + 一个部门尽量只投递一个，找一个最合适自己，因为其中一个挂了其他投递也不会看。
 + 整体流程：简历投递=>简历筛选=>简历评估=>评估通过=>笔试中（非必要）=>面试中=>面试已完成=>待入职=>已入职
