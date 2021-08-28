@@ -139,7 +139,11 @@
 ## 感谢支持
 > 松宝，「松宝写代码」公众号作者，也用saucxs混迹于江湖，watermark-dom包700+ star，曾在ACM校队，在字节做AB实验，担任面试官，出校招编程题，爱好折腾，致力于全栈，喜欢挑战自己。公众号有精选文章，进阶学习，每日一题，实验室，AB实验，字节内推等模块，欢迎关注和咨询，和松宝一起写代码，冲冲冲！
 
-## 备份地址
-+ [云雀](https://www.yuque.com/books/share/39617705-0356-4cc4-a58f-90520a5f2379)
-+ [Github](https://github.com/saucxs/job)
+## 实时更新「字节内推」
++ [job Hunting 内推（yuque）](https://github.com/saucxs/job)
++ [【北京】字节内推](https://www.yuque.com/docs/share/abbfa5de-51f1-4804-8654-4faddcf87616)
++ [【上海】字节内推](https://www.yuque.com/docs/share/69ec76e9-d36d-4f11-8ddf-55c6ffbeec28)
++ [【南京】字节内推](https://www.yuque.com/docs/share/1be5a1b8-8254-48a3-a76b-a6dcf399579a)
++ [【成都】字节内推](https://www.yuque.com/docs/share/0e0a07f1-7e10-4324-b654-b28850c07042)
++ [job Hunting 内推（Github）](https://github.com/saucxs/job)
 
